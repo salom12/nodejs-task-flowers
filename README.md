@@ -1,4 +1,4 @@
-# nodejs-task-flowers
+# Nodejs-task-flowers
 
 # How to run
 
@@ -10,5 +10,6 @@ or
 $> node app.js
 ```
 
+# screenshot
 ![screenshot](./screenshots/test.png)
 
